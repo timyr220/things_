@@ -1,4 +1,4 @@
-# things_pizdatiy
+# things
 import requests
 
 def authenticate(url, username, password):
